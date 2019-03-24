@@ -1,21 +1,6 @@
-.App-logo {
-    animation: App-logo-spin infinite 20s linear;
-    height: 10px;
-    pointer-events: none;
+.logout {
+  float: right;
+  padding-top: 13px;
+  padding-right: 13px;
   }
-  
-  .App-header {
-    display:flex;
-    flex-direction: row;
-    background-color: #282c34;
-    text-align: left;
-  }
-
-  .App-title{
-      font-size:1.5em;
-      color:#61dafb;
-  }
-  
-  .App-link {
-    color: #61dafb;
-  }
+   
