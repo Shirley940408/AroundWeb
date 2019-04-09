@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Modal, Button, message } from 'antd';
 import { CreatePostForm } from './CreatePostForm';
@@ -85,7 +84,3 @@ export class CreatePostButton extends React.Component {
    );
  }
 }
-
-
-
-
